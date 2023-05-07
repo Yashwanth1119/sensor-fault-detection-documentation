@@ -1,4 +1,4 @@
-# docsTemplate
-its just a template Repository for documentation
+# Sensor project documentation repo
 
-Click on `Use this template` button on the top right to use this repository as a boiler plate for your next documentation
+Document Repository for Sensor fault detection project documentation 
+
